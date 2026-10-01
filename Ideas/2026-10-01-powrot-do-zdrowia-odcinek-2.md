@@ -12,6 +12,34 @@ Dwa tygodnie temu połamałem twarzoczaszkę. To drugi trening z serii powrotu d
 4. "Robię na boso."
 5. "Dynamiczne rozciąganie, głęboki przysiad, oba szpagaty, trochę izometrii."
 
+## Skrypt
+
+*W nawiasach kwadratowych: co widać na ekranie albo czego jeszcze brakuje.*
+
+**[WIDEO: ja na plaży, zbliżenie na twarz]**
+Dwa tygodnie temu połamałem twarzoczaszkę.
+
+**[WIDEO: wejście na piasek]**
+A to drugi trening z serii powrotu do zdrowia.
+
+**[WIDEO: bose stopy w piasku]**
+Twoje kostki, stopy i kolana kochają piasek, także robię na boso.
+
+**[WIDEO: dynamiczne rozciąganie]**
+Dynamiczne rozciąganie.
+
+**[WIDEO: głęboki przysiad]**
+Głęboki przysiad.
+
+**[WIDEO: szpagat podłużny, potem poprzeczny]**
+Oba szpagaty.
+
+**[WIDEO: izometria]**
+I trochę izometrii. [jakie ćwiczenie? powiedz nazwę]
+
+**[ZAKOŃCZENIE]**
+[nie powiedziałeś: zapowiedź odcinka 3, "obserwuj", odesłanie do odcinka 1?]
+
 ## Outline
 - Dwa tygodnie temu połamałem twarzoczaszkę.
 - To drugi trening z serii powrotu do zdrowia.
